@@ -48,8 +48,10 @@ Escáner de libros automático.
 ######Para generar el vacío (presión negativa), a partir de la presión positiva que nos proporciona el compresor usamos una válvula FESTO OVEM, que incorpora el venturi y la electroválvula 2/2.
 ######Para detectar cuando la ventosa llega hasta abajo y succiona la página del libro, usamos un presostato FESTO PEV-W, configurado como NC, que nos devuelve un nivel bajo cuando detecta vacío. 
 
+#3.-Piezas para imprimir en 3D, STL's
 
-#3.-Modificaciones pendientes, mejoras
+
+#4.-Modificaciones pendientes, mejoras
 ######No depender del sistema neumático.
 ######Cambiar el motor de la cremallera por uno más rápido. 
 ######Display con encoder para configuración e introducir nº de páginas a escanear.
