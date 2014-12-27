@@ -28,10 +28,10 @@ Escáner de libros automático.
 ######Usamos el array de 7 transistores darlington ULN2003 para las 4 fases del motor paso a paso y para excitar la bobina del relé que controla la electroválvula.
 
 ####2.1.3.-Módulos industriales
-#####Dado que usamos módulos industriales para la parte de neumática (están detallados en el apartado siguiente 2.2) nos vemos obligados a trabajar en una zona con 24v y adaptar estas entradas y salidas a 5v, que es lo que admite Arduino. 
-####Tenemos una salida a 24v; la electroválvula FESTO OVEM. 
+######Dado que usamos módulos industriales para la parte de neumática (están detallados en el apartado siguiente 2.2) nos vemos obligados a trabajar en una zona con 24v y adaptar estas entradas y salidas a 5v, que es lo que admite Arduino. 
+#####Tenemos una salida a 24v; la electroválvula FESTO OVEM. 
 ######Pasamos de 5v a 24v con un relé excitado con un transistor Darlington del integrado ULN2003 como ya hemos visto.
-####Tenemos una entrada a 24v; el presostato FESTO PEV-W. 
+#####Tenemos una entrada a 24v; el presostato FESTO PEV-W. 
 ######Pasamos de 24v a 5v con un divisor resistivo. Con una resistencia de 4k a +24V conectada a una resistencia de 1k que a su vez va a GND. Así, entre el punto de unión de ambas resistencias y GND tenemos una caída de 4,8v.
 
 ##2.2.-Neumática
