@@ -4,6 +4,6 @@ Un proyecto de Mario Navarro y Pablo Oton.
 
 
 
-![Imagen1](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/Imagen1.png)
+![Imagen1](https://github.com/otonpablo/Escaner-automatico/blob/master/Imagen1.png)
 
 
