@@ -3,6 +3,7 @@ Escáner de libros automático.
 ######Proyecto de Mario Navarro y Pablo Otón para la asignatura Automatización Industrial de 3º del Grado en Ingeniería Electrónica industrial y automática de la UPCT.
 ![1](http://i.gyazo.com/fb20c3760d65ccf924531efab7c1a3b4.png)
 ![2](http://i.gyazo.com/1a5dec6576b23358d52b24a8013a377f.png)
+![3](http://i.gyazo.com/74e7db85763c5f15cc9b6696c042dec1.png)
 
 #1.-Código Arduino
 ...
@@ -17,11 +18,12 @@ Escáner de libros automático.
 ######Descargar en: https://github.com/PabloOton/Libreria-24BYJ48
 
 #2.-Hardware
-![3](http://i.gyazo.com/ca455526cdab26c6c30360fc9e291077.png)
+![4](http://i.gyazo.com/ca455526cdab26c6c30360fc9e291077.png)
 ##2.1.-Electrónica
 ######Finales de carrera superior e inferior: El inferior lo hemos sustituido por un presostato y el superior realmente no es necesario, al tratarse de un motor paso a paso; Pero en este primer prototipo nos decantamos por poner el final de carrera superior porque a la hora de hacer los numerosos ajustes es más cómodo cambiar la posición del final de carrera que reajustar los pasos del motor.
 ##2.2.-Neumática
 ...
+
 
 #3.-Modificaciones pendientes, mejoras
 ######No depender del sistema neumático.
