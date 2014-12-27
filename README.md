@@ -23,9 +23,9 @@ Finales de carrera superior e inferior: El inferior lo hemos sustituido por un p
 ...
 
 #3.-Modificaciones pendientes, mejoras
--No depender del sistema neumático.
--Cambiar el motor de la cremallera por uno más rápido. 
--Display con encoder para configuración e introducir nº de páginas a escanear.
+#####-No depender del sistema neumático.
+#####-Cambiar el motor de la cremallera por uno más rápido. 
+#####-Display con encoder para configuración e introducir nº de páginas a escanear.
 
 
 
