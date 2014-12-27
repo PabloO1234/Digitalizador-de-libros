@@ -26,7 +26,7 @@ Escáner de libros automático.
 ![5](http://i.gyazo.com/766c2b8b3302a408c1d8a34390902d5c.png)
 
 ######Usamos un compresor de 8 bar y 25L regulado a 2 bar en su salida.
-######Para generar el vacío (presión negativa), a partir de la presión positiva que nos proporciona el compresor usamos una válvula FESTO OVEM, que incorpora el venturi y electroválvula.
+######Para generar el vacío (presión negativa), a partir de la presión positiva que nos proporciona el compresor usamos una válvula FESTO OVEM, que incorpora el venturi y la electroválvula 2/2.
 ######Para detectar cuando la ventosa llega hasta abajo y succiona la página del libro, usamos un presostato FESTO PEV-W, configurado como NC, que nos devuelve un nivel bajo cuando detecta vacío.
 
 
