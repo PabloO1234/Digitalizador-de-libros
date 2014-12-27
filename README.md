@@ -27,6 +27,8 @@ Escáner de libros automático.
 ####2.1.2.-Circuito integrado ULN2003
 ######Usamos el array de 7 transistores darlington ULN2003 para las 4 fases del motor paso a paso y para excitar la bobina del relé que controla la electroválvula.
 
+![6](http://i.gyazo.com/349e4aad2ffad7543b9b2e6c0176a0b0.png)
+
 ####2.1.3.-Módulos industriales
 ######Dado que usamos módulos industriales para la parte de neumática (están detallados en el apartado siguiente 2.2) nos vemos obligados a trabajar en una zona con 24v y adaptar estas entradas y salidas a 5v, que es lo que admite Arduino. 
 #####Tenemos una salida a 24v; la electroválvula FESTO OVEM: 
