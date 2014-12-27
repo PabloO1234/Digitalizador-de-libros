@@ -18,9 +18,14 @@ Descargar en: https://github.com/PabloOton/Libreria-24BYJ48
 
 #2.-Hardware
 #2.1.-Electrónica
+Finales de carrera superior e inferior: El inferior lo hemos sustituido por un presostato y el superior realmente no es necesario, al tratarse de un motor paso a paso; Pero en este primer prototipo nos decantamos por poner el final de carrera superior porque a la hora de hacer los numerosos ajustes es más cómodo cambiar la posición del final de carrera que reajustar los pasos del motor.
 #2.2.-Neumática
 ...
 
+#3.-Modificaciones pendientes, mejoras
+-No depender del sistema neumático.
+-Cambiar el motor de la cremallera por uno más rápido. 
+-Display con encoder para configuración e introducir nº de páginas a escanear.
 
 
 
