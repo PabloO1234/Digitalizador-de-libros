@@ -1,4 +1,4 @@
-Escáner de libros automático.
+Digitalizador de libros automático.
 ============================
 ######Proyecto de Mario Navarro y Pablo Otón para la asignatura Automatización Industrial de 3º del Grado en Ingeniería Electrónica industrial y automática de la UPCT.
 ####Se trata de un escáner de libros totalmente automático. Pasador de páginas basado en la técnica industrial de vacío y ventosa.
