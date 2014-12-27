@@ -22,12 +22,12 @@ Escáner de libros automático.
 ##2.1.-Electrónica
 ######Finales de carrera superior e inferior: El inferior lo hemos sustituido por un presostato y el superior realmente no es necesario, al tratarse de un motor paso a paso; Pero en este primer prototipo nos decantamos por poner el final de carrera superior porque a la hora de hacer los numerosos ajustes es más cómodo cambiar la posición del final de carrera que reajustar los pasos del motor.
 ##2.2.-Neumática
-######El diagrama neumático es el siguiente:
+######El diagrama neumático simplificado es el siguiente:
 ![5](http://i.gyazo.com/766c2b8b3302a408c1d8a34390902d5c.png)
 
 ######Usamos un compresor de 8bar. y 25L regulado a 2bar. en su salida.
 ######Para generar el vacío (presión negativa), a partir de la presión positiva que nos proporciona el compresor usamos una válvula FESTO OVEM, que incorpora el venturi y la electroválvula 2/2.
-######Para detectar cuando la ventosa llega hasta abajo y succiona la página del libro, usamos un presostato FESTO PEV-W, configurado como NC, que nos devuelve un nivel bajo cuando detecta vacío.
+######Para detectar cuando la ventosa llega hasta abajo y succiona la página del libro, usamos un presostato FESTO PEV-W, configurado como NC, que nos devuelve un nivel bajo cuando detecta vacío. 
 
 
 #3.-Modificaciones pendientes, mejoras
