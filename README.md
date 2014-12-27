@@ -14,7 +14,7 @@ Creada por Igor Real.
 Descargar en: https://github.com/IgorReal/SECUduino/tree/master/FSM%20Library
 ###1.1.2.-Librería Unipolar
 Librería para el control del motor paso a paso 28BYJ48.
-Descargar en: https://github.com/otonpablo/Libreria-24BYJ48
+Descargar en: https://github.com/PabloOton/Libreria-24BYJ48
 
 #2.-Electrónica
 ...
