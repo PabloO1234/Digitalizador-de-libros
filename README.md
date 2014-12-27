@@ -10,7 +10,7 @@ Escáner de libros automático.
 ![3](http://i.gyazo.com/74e7db85763c5f15cc9b6696c042dec1.png)
 
 #1.-Código Arduino
-En la carpeta podemos descargar...
+######En la carpeta 'Codigo_Arduino' podemos descargar el código de este primer prototipo.
 ##1.1-Librerías Usadas
 ######Para hacer funcionar el código hay que incluir las dos librerías siguientes:
 ###1.1.1.-Librería FSM
