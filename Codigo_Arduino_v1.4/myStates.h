@@ -1,6 +1,5 @@
-//-----------------------------------------------------
-//ESTE ES EL ÚNICO FICHERO QUE HAY QUE MODIFICAR
-//-----------------------------------------------------
+//Esto es especifico de la librería FSM usada
+// https://github.com/IgorReal/SECUduino/tree/master/FSM%20Library
 
 #ifndef myStates_H
 #define myStates_H
