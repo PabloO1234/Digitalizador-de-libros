@@ -20,9 +20,9 @@ Escáner de libros automático.
 #2.-Hardware
 ##2.1.-Electrónica
 ![4](http://i.gyazo.com/ca455526cdab26c6c30360fc9e291077.png)
-######Finales de carrera superior e inferior: 
-#######El inferior lo hemos sustituido por un presostato. 
-#######El superior realmente no es necesario, al tratarse de un motor paso a paso; Pero en este primer prototipo nos decantamos por poner el final de carrera superior porque a la hora de hacer los numerosos ajustes es más cómodo cambiar la posición del final de carrera que reajustar los pasos del motor.
+#####Finales de carrera superior e inferior: 
+######El inferior lo hemos sustituido por un presostato. 
+######El superior realmente no es necesario, al tratarse de un motor paso a paso; Pero en este primer prototipo nos decantamos por poner el final de carrera superior porque a la hora de hacer los numerosos ajustes es más cómodo cambiar la posición del final de carrera que reajustar los pasos del motor.
 ##2.2.-Neumática
 ######El diagrama neumático simplificado es el siguiente:
 ![5](http://i.gyazo.com/766c2b8b3302a408c1d8a34390902d5c.png)
