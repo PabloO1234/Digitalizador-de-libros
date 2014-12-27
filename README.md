@@ -1,12 +1,16 @@
 Escáner de libros automático.
 ============================
 ######Proyecto de Mario Navarro y Pablo Otón para la asignatura Automatización Industrial de 3º del Grado en Ingeniería Electrónica industrial y automática de la UPCT.
+####Se trata de un escáner de libros totalmente automático. Pasador de páginas basado en la técnica industrial de vacío y ventosa.
+####En este primer prototipo, debido a la asignatura a la que va vinculado, nos vemos obligados a utilizar módulos neumáticos industriales y depender de un compresor de aire.
+####En futuros prototipos usaremos un sistema que permita una solución más portable y silenciosa.
+
 ![1](http://i.gyazo.com/fb20c3760d65ccf924531efab7c1a3b4.png)
 ![2](http://i.gyazo.com/1a5dec6576b23358d52b24a8013a377f.png)
 ![3](http://i.gyazo.com/74e7db85763c5f15cc9b6696c042dec1.png)
 
 #1.-Código Arduino
-...
+En la carpeta podemos descargar...
 ##1.1-Librerías Usadas
 ######Para hacer funcionar el código hay que incluir las dos librerías siguientes:
 ###1.1.1.-Librería FSM
