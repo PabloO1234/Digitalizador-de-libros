@@ -12,7 +12,7 @@ Digitalizador de libros automático.
 #1.-Código Arduino
 ######En la carpeta 'Codigo_Arduino' podemos descargar el código de este primer prototipo.
 ##1.1-Librerías Usadas
-######Para hacer funcionar el código hay que incluir las dos librerías siguientes:
+######Para hacer funcionar el código hay que incluir en el IDE de Arduino las dos librerías siguientes:
 ###1.1.1.-Librería FSM
 ######La librería 'FSM' nos permite implementar con Arduino la secuencia de funcionamiento en formato de máquina de estados.
 ######Creada por Igor Real.
