@@ -4,15 +4,19 @@ Proyecto de Mario Navarro y Pablo Oton para la asignatura Automatización Industr
 ![Imagen1](http://i.gyazo.com/fb20c3760d65ccf924531efab7c1a3b4.png)
 ![Imagen2](http://i.gyazo.com/1a5dec6576b23358d52b24a8013a377f.png)
 
-#Código Arduino
+#1.-Código Arduino
 ...
-##Librerías Usadas
+##1.-Librerías Usadas
+A parte de la librería Servo, que ya viene incorporada en el IDE de Arduino, para hacer funcionar el código hay que
+incluir 2 librerías;
+###1.1.-Librería FSM
+...
+###1.2.-Librería Unipolar
 ...
 
-#Electrónica
+#2.-Electrónica
 ...
 
-#Piezas, stl's
-...
+
 
 
