@@ -9,11 +9,11 @@ Escáner de libros automático.
 ##1.1-Librerías Usadas
 ######Para hacer funcionar el código hay que incluir las dos librerías siguientes:
 ###1.1.1.-Librería FSM
-######Librería 'FSM' para poder implementar con Arduino la secuencia de funcionamiento en formato de máquina de estados.
+######La librería 'FSM' nos permite implementar con Arduino la secuencia de funcionamiento en formato de máquina de estados.
 ######Creada por Igor Real.
 ######Descargar en: https://github.com/IgorReal/SECUduino/tree/master/FSM%20Library
 ###1.1.2.-Librería Unipolar
-######Librería 'Unipolar' propia, para el control del motor paso a paso unipolar 28BYJ48.
+######La librería 'Unipolar' nos permite controlar con una única línea el motor paso a paso unipolar 28BYJ48.
 ######Descargar en: https://github.com/PabloOton/Libreria-24BYJ48
 
 #2.-Hardware
