@@ -4,6 +4,6 @@ Un proyecto de Mario Navarro y Pablo Oton.
 
 
 
-![Imagen1](https://github.com/otonpablo/Escaner-automatico/blob/master/Imagen1.png)
+![Imagen1](http://i.gyazo.com/fb20c3760d65ccf924531efab7c1a3b4.png)
 
 
