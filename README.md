@@ -9,7 +9,7 @@ Escáner de libros automático.
 ##1.1-Librerías Usadas
 ######Para hacer funcionar el código hay que incluir las dos librerías siguientes:
 ###1.1.1.-Librería FSM
-######Librería 'FSM' para poder imlementar con Arduino la secuencia de funcionamiento en formato de máquina de estados.
+######Librería 'FSM' para poder implementar con Arduino la secuencia de funcionamiento en formato de máquina de estados.
 ######Creada por Igor Real.
 ######Descargar en: https://github.com/IgorReal/SECUduino/tree/master/FSM%20Library
 ###1.1.2.-Librería Unipolar
