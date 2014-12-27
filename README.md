@@ -7,12 +7,14 @@ Proyecto de Mario Navarro y Pablo Oton para la asignatura Automatización Industr
 #1.-Código Arduino
 ...
 ##1.1-Librerías Usadas
-A parte de la librería Servo, que ya viene incorporada en el IDE de Arduino, para hacer funcionar el código hay que
-incluir 2 librerías;
+Para hacer funcionar el código hay que incluir las dos librerías siguientes:
 ###1.1.1.-Librería FSM
-...
+Librería para poder imlementar con Arduino la secuencia de funcionamiento en formato de máquina de estados.
+Creada por Igor Real.
+Descargar en: https://github.com/IgorReal/SECUduino/tree/master/FSM%20Library
 ###1.1.2.-Librería Unipolar
-...
+Librería para el control del motor paso a paso 28BYJ48.
+Descargar en: https://github.com/otonpablo/Libreria-24BYJ48
 
 #2.-Electrónica
 ...
