@@ -21,7 +21,7 @@ Escáner de libros automático.
 ##2.1.-Electrónica
 ![4](http://i.gyazo.com/ca455526cdab26c6c30360fc9e291077.png)
 ####2.1.1.-Finales de carrera superior e inferior: 
-######El final de carrera inferior lo hemos sustituido por un presostato. 
+######El final de carrera inferior lo hemos sustituido por un presostato (ver apartado 2.2). 
 ######El final de carrera superior realmente no es necesario, al tratarse de un motor paso a paso; Pero en este primer prototipo nos decantamos por poner el final de carrera superior porque a la hora de hacer los numerosos ajustes es más cómodo cambiar la posición del final de carrera que reajustar los pasos del motor.
 
 ####2.1.2.-Circuito integrado ULN2003
