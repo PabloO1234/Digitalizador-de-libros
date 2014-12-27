@@ -1,6 +1,6 @@
 Escaner de libros automatico
 ============================
-Un proyecto de Mario Navarro y Pablo Oton.
+Proyecto de Mario Navarro y Pablo Oton para la asignatura Automatización Industrial de 3º del Grado en Ingeniería Electrónica industrial y automática de la UPCT.
 
 
 
