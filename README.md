@@ -6,12 +6,12 @@ Proyecto de Mario Navarro y Pablo Oton para la asignatura Automatización Industr
 
 #1.-Código Arduino
 ...
-##1.-Librerías Usadas
+##1.1-Librerías Usadas
 A parte de la librería Servo, que ya viene incorporada en el IDE de Arduino, para hacer funcionar el código hay que
 incluir 2 librerías;
-###1.1.-Librería FSM
+###1.1.1.-Librería FSM
 ...
-###1.2.-Librería Unipolar
+###1.1.2.-Librería Unipolar
 ...
 
 #2.-Electrónica
