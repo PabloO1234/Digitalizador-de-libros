@@ -4,6 +4,7 @@ Escáner de libros automático.
 ![1](http://i.gyazo.com/fb20c3760d65ccf924531efab7c1a3b4.png)
 ![2](http://i.gyazo.com/1a5dec6576b23358d52b24a8013a377f.png)
 ![3](http://i.gyazo.com/74e7db85763c5f15cc9b6696c042dec1.png)
+![7](http://i.gyazo.com/e6dfe463475cc2ddbf8b4f117ad6e3a8.png)
 
 #1.-Código Arduino
 ...
