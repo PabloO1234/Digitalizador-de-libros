@@ -23,6 +23,17 @@ Escáner de libros automático.
 ####Finales de carrera superior e inferior: 
 ######El inferior lo hemos sustituido por un presostato. 
 ######El superior realmente no es necesario, al tratarse de un motor paso a paso; Pero en este primer prototipo nos decantamos por poner el final de carrera superior porque a la hora de hacer los numerosos ajustes es más cómodo cambiar la posición del final de carrera que reajustar los pasos del motor.
+
+####Circuito integrado ULN2003
+######Usamos el array de 7 transistores darlington ULN2003 para las 4 fases del motor paso a paso y para excitar la bobina del relé que controla la electroválvula.
+
+####Módulos industriales
+####Dado que usamos módulos industriales para la parte de neumática (están detallados en el apartado siguiente 2.2) nos vemos obligados a trabajar en una zona con 24v y adaptar estas entradas y salidas a 5v, que es lo que admite Arduino. 
+####Tenemos una salida a 24v; la electroválvula FESTO OVEM. 
+######Pasamos de 5v a 24v con un relé excitado con un transistor Darlington del integrado ULN2003 como ya hemos visto.
+####Tenemos una entrada a 24v; el presostato FESTO PEV-W. 
+######Pasamos de 24v a 5v con un divisor resistivo. Con una resistencia de 4k a +24V conectada a una resistencia de 1k que a su vez va a GND. En el punto de unión tenemos 5v.
+
 ##2.2.-Neumática
 ######El diagrama neumático simplificado es el siguiente:
 ![5](http://i.gyazo.com/766c2b8b3302a408c1d8a34390902d5c.png)
