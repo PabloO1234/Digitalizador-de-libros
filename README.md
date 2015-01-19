@@ -37,7 +37,7 @@ Digitalizador de libros automático.
 #####Tenemos una salida a 24v; la electroválvula FESTO OVEM: 
 ######Pasamos de 5v a 24v con un relé excitado con un transistor Darlington del integrado ULN2003 como ya hemos visto.
 #####Tenemos una entrada a 24v; el presostato FESTO PEV-W: 
-######Pasamos de 24v a 5v con un divisor resistivo. Con una resistencia de 4k a +24V conectada a una resistencia de 1k que a su vez va a GND. Así, entre el punto de unión de ambas resistencias y GND tenemos una caída de 4,8v.
+######Pasamos de 24v a 5v con un divisor resistivo. Con una resistencia de 3.9k a +24V conectada a una resistencia de 1.2k que a su vez va a GND. Así, entre el punto de unión de ambas resistencias y GND tenemos una caída de 4,7v.
 
 ##2.2.-Neumática
 ######El diagrama neumático simplificado es el siguiente:
