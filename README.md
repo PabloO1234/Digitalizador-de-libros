@@ -59,6 +59,7 @@ Digitalizador de libros automático.
 ####Sin la colaboración de las siguientes personas este pequeño prototipo no se hubiese llevado a cabo:
 ######-Juan Alberto Martínez Segura fué fundamental durante el ensamblaje estructural, eléctrico y neumático  
 ######-Eduardo Garres Mateo nos guió en el uso del motor paso a paso unipolar con el array ULN2003.
-######-Roque Belda García, Jose David Trapero Díaz... y demás miembros de UPCT-Makers.
+######-Jose David Trapero Díaz propuso la mejora del péndulo y la disposición de los servos a la hora de 'aplastar' las páginas.
+######-Roque Belda García, por dedicar a este pequeño proyecto una entrada en su magnífico blog: http://roquebelda.blogspot.com.es/
 
 
